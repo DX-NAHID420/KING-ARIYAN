@@ -1,1 +1,14 @@
 # KING-ARIYAN
+- pkg update && pkg upgrade
+- pkg install python
+- pkg install git
+- pip install requests
+- pip install mechanize
+- pip install futures
+- pip install urllib3
+- pip install rich
+- pip install bs4
+- rm -rf KING-ARIYAN
+- git clone https://github.com/DX-NAHID420/KING-ARIYAN
+- cd KING-ARIYAN
+- python ARIYAN-CYBER.py![Screenshot_20230820_064511](https://github.com/DX-NAHID420/KING-ARIYAN/assets/129710462/054faf54-dfed-4782-97a7-53b1f908e456)

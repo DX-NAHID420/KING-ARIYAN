@@ -11,4 +11,5 @@
 - rm -rf KING-ARIYAN
 - git clone https://github.com/DX-NAHID420/KING-ARIYAN
 - cd KING-ARIYAN
-- python ARIYAN-CYBER.py![Screenshot_20230820_064511](https://github.com/DX-NAHID420/KING-ARIYAN/assets/129710462/054faf54-dfed-4782-97a7-53b1f908e456)
+- python ARIYAN-CYBER.py
+- ![Screenshot_20240329_141719](https://github.com/DX-NAHID420/KING-ARIYAN/assets/129710462/4a4372d7-3403-41a5-90e8-889b94dd339a)
